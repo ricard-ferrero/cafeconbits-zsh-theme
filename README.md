@@ -6,7 +6,7 @@ Welcome to my personal **ZSH theme "Cafe con Bits"**: it's simple, clear and has
 
 ![Exemple ot a terminal](./readme-images/exemple.png)
 
-Inspired on `robbyrussell` theme.
+Inspired by `robbyrussell` theme.
 
 ## How to install
 
