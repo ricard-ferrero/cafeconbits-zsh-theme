@@ -1,5 +1,3 @@
-<style>img{max-width: 70%;}</style>
-
 # ZSH theme "Cafe con Bits"
 
 Welcome to my personal **ZSH theme "Cafe con Bits"**: it's simple, clear and has a coffee cup ☕.
