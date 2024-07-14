@@ -8,7 +8,7 @@ Inspired by `robbyrussell` theme.
 
 ## How to install
 
-It works on **Oh My Bash**: https://ohmyz.sh/
+It works on **Oh My Zsh**: https://ohmyz.sh/
 
 If you didn't installed, go to that web and install it before continue.
 
